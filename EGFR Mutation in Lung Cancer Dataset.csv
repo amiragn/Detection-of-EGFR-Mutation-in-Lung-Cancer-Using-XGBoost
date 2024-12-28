@@ -1,0 +1,81 @@
+No,Name,Gender,Age,Test Number,Test Result,EGFR Mutation,Dimension,Density,Edge,Indentation,Cavity,Necrosis,Calcification,Tumor Location,Lobe Location,Emphysema Type,Emphysema Location,Emphysema Lobe,Lymphadenopathy,Pulmonary Nodule,Pleural Effusion,Pericardial Effusion,Bone Metastasis,Liver Metastasis,Spleen Metastasis,Suprarenal Metastasis,Staging
+1,Abdul Munif,M,75,FNA/1012/2018,,Negative,1,1,1,1,0,1,1,1,5,1 2,1 4,2,1 2 3 5 6,1,2,0,0,1,0,0,IVb
+2,Amrun,M,76,gf.112.18,,Positive,1,1,1,1,0,0,0,2,3,0,0,0,1,0,0,0,0,0,0,0,IIb
+3,Andy Budianto,M,68,,,Negative,1,1,1,1,1,0,0,2,1,1,1 2 3 4 5,5,3 5 ,0,0,0,1,0,0,0,IVb
+4,Asmuri,M,67,M/3218/2018,Squamous Cell Carcinoma,Negative,1,1,1,1,0,1,1,1,2 3,1 2 3,1 2 3 4 5,5,1 3 5 6 ,1 2,0,0,0,1,0,0,IVb
+5,Bambang S,M,,fna/2014/2018,Adenocarcinoma,Negative,1,1,0,1,0,1,0,3,1 2 3,1 2,4,1,1 2 6,0,0,0,0,0,1,0,IVa
+6,Dai,M,,FNA/869/2019,Adenocarcinoma,Negative,1,1,1,1,0,1,0,3,1,0,0,0,1 2 3 4 5 6 7,0,0,0,0,0,0,0,IIIc
+7,Denok,F,51,f.1764/2018,Adenocarcinoma,Negative,1,1,0,1,0,1,0,3,5,0,0,0,0,0,0,0,0,0,0,0,IIb
+8,Edi Wahyudi,M,46,FNA/1150/2018,Adenocarcinoma,Negative,1,1,1,1,1,1,1,1,2,2,3,1,1 2 3 5,0,1 2,1,0,0,0,0,IVa
+9,Erwin,M,56,SG 58/18,,Positive,1,1,1,1,0,1,0,2,5,0,0,0,0,0,2,0,0,0,0,0,IVa
+10,Firdausi Ahla,F,56,SM/470/2018,Adenocarcinoma,Positive,1,1,0,1,0,1,0,3,1 2,0,0,0,3 5,0,1,0,1,1,0,0,IVb
+11,Gando Prayitno,M,61,FNA/1603/2018,Adenocarcinoma,Negative,1,1,1,0,0,1,0,2,1,1,1 2 3 4 5,5,0,0,0,0,1,0,0,0,IVb
+12,Gunawan,M,36,,,Negative,1,1,0,1,1,1,0,3,5,0,0,0,1 2 3 6,2,0,0,2,0,0,0,IVb
+13,Hadi Kusnan,M,76,FNA/881/2018,Adenocarcinoma,Negative,1,1,0,1,1,0,1,3,5,2,1,1,0,0,0,0,0,0,0,0,IIIa
+14,Hariyanto,M,37,FNA/73/2018,,Positive,1,1,1,1,1,1,0,1,4 5,1 2,1 3,2,0,0,2,0,2,0,0,0,IVb
+15,Harnanik,F,54,m/1304/2019,Adenocarcinoma,Negative,1,1,1,1,0,0,0,1,1 2,0,0,0,4,0,1 2,0,3,1,0,0,IVb
+16,Hartono,M,37,f/491/2019,,Negative,1,1,0,1,0,1,0,1,2 3,0,0,0,1 2 3 4 5 6 ,0,1,0,2,0,0,0,IVb
+17,Ismail,M,43,s.200/18,,Positive,1,1,0,1,0,1,0,1,1 2 3,1,4 5,2,1 2 3 5 6,2,1 2,1,0,1,0,0,IVb
+18,Izzudin,M,53,F180/18,Adenocarcinoma,Negative,1,1,1,1,0,1,0,3,4,1,1 4,2,2 5,0,0,0,0,0,0,0,IIIc
+19,Kanti,F,46,F116/18,Adenocarcinoma,Negative,1,1,1,1,0,1,0,1,,0,0,0,1 3,1 2,0,0,1,1,0,0,IVb
+20,Kurnasih,F,,f/676/2019,Adeno Squamous Cell Carcinoma,Positive,1,0,0,1,1,1,1,3,5,0,0,0,2,1 2,0,0,0,0,0,0,IVa
+21,Kusnu,M,68,M 1880/2018,Adenocarcinoma,Negative,1,1,1,1,0,1,1,1,1,1,1 4,2,1 3 5,1 2,0,0,0,0,0,0,IVa
+22,Lasito,M,68,SM/1474/2018,Adenocarcinoma,Positive,1,1,1,1,0,1,0,1,4 5,0,0,0,3 5,0,2,0,0,0,0,0,IVa
+23,Latifun,F,54,SG.99/17,,Positive,1,1,1,1,0,1,0,1,5,0,0,0,0,2,2,0,2,0,0,0,IVb
+24,Mariati,F,48,,,Negative,,,,,,,,,,,,,,,,,,,,,
+25,Markasan,M,63,FB.496/18,,Positive,1,1,1,1,0,1,1,1,4 5,1,1 2 3 4,4,1 2 3 5 6,2,0,0,0,0,0,0,IVa
+26,Marsaid,M,64,FNA/1356/2018,Adenocarcinoma,Positive,1,1,0,1,0,1,0,3,3,1,1 2 4 5,4,1,0,0,0,0,0,0,0,IIIa
+27,Mistakul,M,33,f/1774/2018,Adeno Squamous Cell Carcinoma,Negative,1,1,0,1,0,1,0,3,5,0,0,0,2 3 5 6 ,0,0,0,0,0,0,0,IIIc
+28,Mujiati,F,71,,,Negative,1,1,1,1,0,0,1,2,4,0,0,0,0,1 2,0,0,0,0,0,0,IVa
+29,Mujirah,F,56,M/4272/2018,Adenocarcinoma,Positive,1,1,0,1,0,1,0,3,1 2 3,0,0,0,3,2,1,0,2,0,0,0,IVb
+30,Muslimah,F,58,sm/374/2019,,Positive,1,1,0,1,0,1,0,3,2 3,0,0,0,1 2 3 5 6 ,1 2,1,0,2,0,0,0,IVb
+31,Fatimah,F,64,fna/35/2019,Adeno Squamous Cell Carcinoma,Positive,0,1,0,1,0,1,0,2,4,0,0,0,0,0,0,0,0,0,0,0,Ia
+32,Petronella,F,53,sm/2096/2018,Adenocarcinoma,Positive,1,1,1,1,0,1,0,1,2 3,0,0,0,3 5,0,1,0,2,0,0,0,IVb
+33,Putri Maharani,F,42,,,Negative,1,1,0,1,0,1,0,1,2,2,4,1,1 3 5 6 ,0,1,0,0,0,0,0,IVa
+34,Ratna Handayani,F,52,,,Positive,1,1,1,1,0,1,1,1,3,0,0,0,1 5,0,0,0,0,0,0,0,IIIa
+35,Rully,M,65,fna/1502/2018,Adenocarcinoma,Negative,1,1,1,1,0,1,0,1,3,1 2,1 2 4,3,1 3  5 6,1 2,0,0,0,0,0,0,IVa
+36,Salamun,M,69,m.3563/2018,Adenocarcinoma,Negative,1,1,1,1,0,1,0,3,1,1 2 3,1 2 3 4 5,5,1 3 5 6,0,0,0,1,1,0,0,IVb
+37,Samiati,F,71,,,Positive,1,1,1,1,0,1,1,1,1,0,0,0,0,1,0,0,2,0,0,0,IVb
+38,Senan,M,70,M.3599/18,Squamous Cell Carcinoma,Positive,1,1,0,1,0,1,1,3,1,0,0,0,1 2 3 4 5,1 2,0,0,1,0,0,1,IVb
+39,Siti Khotfidah,F,42,FNA/192/2018,Adenocarcinoma,Negative,1,1,0,1,0,1,0,1,1,0,0,0,1 3 5,1,0,0,0,0,0,0,
+40,Sladri,M,63,F/548/18,,Negative,1,1,1,1,0,1,1,2,1,1 2,1 4,2,1 5,1 2,0,0,3,0,0,0,IVb
+41,Soemari,M,55,sm/1733/2018,Adeno Squamous Cell Carcinoma,Positive,1,1,1,1,0,1,1,1,1 2 3,2,4,1,1 2 3 5 6,1 2,1 2,1,0,1,0,0,IVb
+42,Soetrisno,M,54,f.2088/18,,Positive,1,1,1,1,0,1,0,1,1,0,0,0,1 3 5,1,1,0,2,0,0,0,IVb
+43,Sokhibul Hudah,M,44,FNA/1168/2018,Adenocarcinoma,Negative,1,1,1,1,0,1,1,3,5,3,4,1,1 2 3 5 6,1 2,0,1,3,1,0,0,IVb
+44,Sri Astutik,F,49,F/1214/2018,Adenocarcinoma,Positive,1,1,1,1,0,1,0,3,1 2 3,0,0,0,1 2 3 5 6,1 2,1,0,1,0,0,0,IVb
+45,Sri Hariyanti,F,47,F.464.18,Adenocarcinoma,Positive,1,1,1,1,0,1,0,1,5,0,0,0,2 3 5,1 2,0,0,0,1,0,0,IVb
+46,Sri Minarti,F,38,,,Negative,1,1,0,1,0,1,0,1,3,0,0,0,1 3 5,1 2,1,0,0,0,0,0,IVa
+47,Sri Mudji Astutik,F,44,FNA/829/2018,Adenocarcinoma,Negative,0,1,1,1,1,1,0,2,5,0,0,0,1 2 3 5 6,0,0,0,0,0,0,0,IIIb
+48,Srianti,F,78,SM/1269/2018,Adenocarcinoma,Positive,1,1,1,1,0,1,0,1,3,0,0,0,1 3 5,1 2,1,0,0,0,0,0,IVa
+49,Sudarsono,M,,fna/1863/2018,Adenocarcinoma,Negative,,,,,,,,,,,,,,,,,,,,,
+50,Sugianto,M,52,Fna/2119/2018,Adeno Squamous Cell Carcinoma,Negative,1,1,1,1,0,1,1,3,3,0,0,0,1 2 5,1 2,0,0,0,0,0,0,IVa
+51,Sugiat,M,42,f/1602/2018,Adeno Squamous Cell Carcinoma,Negative,1,1,1,1,0,1,0,1,4,0,0,0,2,0,0,0,0,0,0,0,IIIa
+52,Suhartono,M,79,m/1230/2019,Adenocarcinoma,Positive,1,1,1,1,0,1,0,1,4,0,0,0,0,1 2,0,0,0,0,0,0,IVa
+53,Sumadi,M,76,FNA/439/2018,Adeno Squamous Cell Carcinoma,Negative,1,1,0,1,1,1,0,3,1 2 3,1,1 3 4,3,1 5,0,0,0,0,0,0,0,IIIa
+54,Sumarmi,F,60,SM.158/18,Adenocarcinoma,Positive,0,1,1,1,0,1,1,1,4,0,0,0,0,0,2,0,3,1,0,0,IVb
+55,Sumini,F,48,FNA/571/2018,Adenocarcinoma,Negative,,,,,,,,,,,,,,,,,,,,,
+56,Sumitro,M,63,f/551/2019,Adenocarcinoma,Positive,1,1,0,1,0,1,0,1,1 2 3,0,0,0,0,0,1,0,2,0,0,0,IVb
+57,Sunarlin,F,53,M/3742/2018,Adenocarcinoma,Positive,,,,,,,,,,,,,,,,,,,,,
+58,Sunarti,F,63,,,Positive,1,1,1,1,0,1,0,3,1,0,0,0,1 3 5 6,1,0,0,0,0,0,0,IIIc
+59,Sunarto,M,58,FNA/1359/2018,Adenocarcinoma,Negative,1,1,1,1,0,1,0,1,1,1 2 3,1 2 3 4,4,1 2 3 5 6,2,1,0,0,0,0,0,IVa
+60,Supadi,M,63,F.1480/18,Adenocarcinoma,Negative,1,1,0,1,0,1,1,3,4 5,1,1,1,1 2 3 4 5 6,1,2,0,0,1,0,0,IVb
+61,Suprihani,F,64,sm/1732/2018,Adenocarcinoma,Positive,1,1,0,1,0,1,0,3,4 5,0,0,0,2 3,1,1 2,1,0,0,0,0,IVb
+62,Suratemi,F,47,,,Positive,1,1,1,1,0,1,0,3,2,0,0,0,0,1,0,0,1,0,0,0,IVb
+63,Suryati,F,58,fn.11.19,,Negative,0,1,1,1,0,0,1,1,4,0,0,0,5,1 2,0,0,0,0,0,0,IVa
+64,Susanto,M,75,FNA/196/2018,Adenocarcinoma,Negative,1,1,1,1,0,1,0,3,1 3,1 2 3,1 4,2,1 3,1 2,1,0,2,0,0,0,IVb
+65,Sutarsih,F,75,FNA/75/2018,Adenocarcinoma,Negative,1,1,0,1,0,1,1,2,1,0,0,0,0,1,0,0,0,0,0,0,IIIa
+66,Sutrisno,M,78,fna/460/2019,Adeno Squamous Cell Carcinoma,Negative,1,1,1,1,0,1,0,2,1,1,1 2 3 4 5,5,1 5,2,0,0,0,0,0,0,IVa
+67,Suwadi,M,64,M/2996/2018,,Negative,1,1,1,1,0,1,0,3,4 5,1,1,1,2 3 6,2,2,0,3,1,0,1,IVb
+68,Suwandi,M,61,fna/564/2019,,Positive,1,1,1,1,0,1,1,2,2 3,0,0,0,1 3 5,1,1,0,3,0,0,0,IVb
+69,Suwarni,M,44,M/3371/2018,Adenocarcinoma,Positive,1,1,0,1,0,1,1,3,1 2 3,0,0,0,1 3 5,2,1,0,2,0,0,0,IVb
+70,Suwono,M,53,m/5329/2018,Adenocarcinoma,Positive,1,1,1,1,0,1,0,2,3,1 2,1 4,2,1 3 5 6,1,0,0,1,0,0,0,IVb
+71,Syukur Makmur Sitomul,M,68,fna/50/2019,Adeno Squamous Cell Carcinoma,Positive,1,1,0,1,0,0,0,3,4 5,1 2 3,1 2,2,2 3 6,2,0,0,0,0,0,0,IIIb
+72,Tajab,M,64,fna/1736/2018,Adenocarcinoma,Negative,1,1,1,1,0,1,0,3,4 5,0,0,0,1 2 3 5 6,2,1,0,0,0,0,0,IVa
+73,Tarno,M,59,s.16/19,,Negative,1,1,1,1,0,1,0,3,1 2 3,0,0,0,1 2 3 5 6,1 2,1,0,2,1,0,0,IVb
+74,Tunianto,M,52,FNA/1196/2018,Adenocarcinoma,Positive,1,1,1,1,0,1,0,3,4,0,0,0,1 2 3 4 5 6,2,0,0,0,0,0,0,IIIc
+75,Usman Ali,M,54,FNA/479/2018,Adenocarcinoma,Negative,1,1,1,1,0,1,0,3,4,0,0,0,2 4 6,1 2,0,0,0,0,0,0,IVa
+76,Vera Lystia,F,67,fna/1777/2018,Adenocarcinoma,Negative,1,1,0,0,0,1,0,3,1,0,0,0,1 3 5,1,1,0,0,1,0,0,IVb
+77,Wahyu Widayati,F,56,m/2756/2019,,Negative,1,1,1,1,0,1,0,1,3,0,0,0,1 2 3 5 6 7,1,1,0,3,0,0,0,IVb
+78,Wartini,F,75,,,Negative,1,1,0,1,0,1,1,3,4 5,0,0,0,2,0,2,0,3,0,0,0,IVb
+79,Yohani,F,59,SM/207/2018,,Negative,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Ib
+80,Zainul Arifin,M,58,sm/2214/18,,Positive,1,1,0,1,0,1,0,3,2,0,0,0,1 5,0,1 2,0,2,0,0,0,IVb
